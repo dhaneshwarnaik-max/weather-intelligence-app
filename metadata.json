@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "Real-time weather analytics, 7-day meteorological charts, and deterministic outdoor planning intelligence powered by Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
